@@ -1,0 +1,337 @@
+fileFormatVersion: 2
+guid: 420dc131658dd564cae6f2bab8168b21
+timeCreated: 1493813901
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Componente_1
+    100002: Componente_2
+    100004: group_0
+    100006: group_1
+    100008: group_2
+    100010: group_3
+    100012: group_4
+    100014: group_5
+    100016: group_6
+    100018: "H\xE9lice"
+    100020: "H\xE9lice 1"
+    100022: "H\xE9lice 2"
+    100024: "H\xE9lice 3"
+    100026: ID105
+    100028: ID113
+    100030: ID121
+    100032: ID129
+    100034: ID137
+    100036: ID153
+    100038: ID161
+    100040: ID169
+    100042: ID177
+    100044: ID203
+    100046: ID211
+    100048: ID219
+    100050: ID227
+    100052: ID235
+    100054: ID243
+    100056: ID251
+    100058: ID255
+    100060: ID259
+    100062: ID263
+    100064: ID267
+    100066: ID281
+    100068: ID289
+    100070: ID297
+    100072: ID305
+    100074: ID313
+    100076: ID321
+    100078: ID329
+    100080: ID337
+    100082: ID341
+    100084: ID345
+    100086: ID349
+    100088: ID353
+    100090: ID357
+    100092: ID361
+    100094: ID365
+    100096: ID369
+    100098: ID37
+    100100: ID373
+    100102: ID377
+    100104: ID381
+    100106: ID385
+    100108: ID389
+    100110: ID393
+    100112: ID397
+    100114: ID401
+    100116: ID45
+    100118: ID53
+    100120: ID61
+    100122: ID69
+    100124: ID82
+    100126: ID97
+    100128: instance_0
+    100130: instance_1
+    100132: instance_2
+    100134: instance_3
+    100136: instance_4
+    100138: instance_5
+    100140: instance_6
+    100142: //RootNode
+    100144: skp_camera_Last_Saved_SketchUp_View
+    100146: Ventilador
+    400000: Componente_1
+    400002: Componente_2
+    400004: group_0
+    400006: group_1
+    400008: group_2
+    400010: group_3
+    400012: group_4
+    400014: group_5
+    400016: group_6
+    400018: "H\xE9lice"
+    400020: "H\xE9lice 1"
+    400022: "H\xE9lice 2"
+    400024: "H\xE9lice 3"
+    400026: ID105
+    400028: ID113
+    400030: ID121
+    400032: ID129
+    400034: ID137
+    400036: ID153
+    400038: ID161
+    400040: ID169
+    400042: ID177
+    400044: ID203
+    400046: ID211
+    400048: ID219
+    400050: ID227
+    400052: ID235
+    400054: ID243
+    400056: ID251
+    400058: ID255
+    400060: ID259
+    400062: ID263
+    400064: ID267
+    400066: ID281
+    400068: ID289
+    400070: ID297
+    400072: ID305
+    400074: ID313
+    400076: ID321
+    400078: ID329
+    400080: ID337
+    400082: ID341
+    400084: ID345
+    400086: ID349
+    400088: ID353
+    400090: ID357
+    400092: ID361
+    400094: ID365
+    400096: ID369
+    400098: ID37
+    400100: ID373
+    400102: ID377
+    400104: ID381
+    400106: ID385
+    400108: ID389
+    400110: ID393
+    400112: ID397
+    400114: ID401
+    400116: ID45
+    400118: ID53
+    400120: ID61
+    400122: ID69
+    400124: ID82
+    400126: ID97
+    400128: instance_0
+    400130: instance_1
+    400132: instance_2
+    400134: instance_3
+    400136: instance_4
+    400138: instance_5
+    400140: instance_6
+    400142: //RootNode
+    400144: skp_camera_Last_Saved_SketchUp_View
+    400146: Ventilador
+    2300000: Componente_1
+    2300002: group_0
+    2300004: group_1
+    2300006: group_3
+    2300008: group_4
+    2300010: group_5
+    2300012: group_6
+    2300014: "H\xE9lice"
+    2300016: "H\xE9lice 1"
+    2300018: "H\xE9lice 2"
+    2300020: "H\xE9lice 3"
+    2300022: ID105
+    2300024: ID113
+    2300026: ID121
+    2300028: ID129
+    2300030: ID137
+    2300032: ID153
+    2300034: ID161
+    2300036: ID169
+    2300038: ID177
+    2300040: ID203
+    2300042: ID211
+    2300044: ID219
+    2300046: ID227
+    2300048: ID235
+    2300050: ID243
+    2300052: ID281
+    2300054: ID289
+    2300056: ID297
+    2300058: ID305
+    2300060: ID313
+    2300062: ID321
+    2300064: ID329
+    2300066: ID37
+    2300068: ID45
+    2300070: ID53
+    2300072: ID61
+    2300074: ID97
+    3300000: Componente_1
+    3300002: group_0
+    3300004: group_1
+    3300006: group_3
+    3300008: group_4
+    3300010: group_5
+    3300012: group_6
+    3300014: "H\xE9lice"
+    3300016: "H\xE9lice 1"
+    3300018: "H\xE9lice 2"
+    3300020: "H\xE9lice 3"
+    3300022: ID105
+    3300024: ID113
+    3300026: ID121
+    3300028: ID129
+    3300030: ID137
+    3300032: ID153
+    3300034: ID161
+    3300036: ID169
+    3300038: ID177
+    3300040: ID203
+    3300042: ID211
+    3300044: ID219
+    3300046: ID227
+    3300048: ID235
+    3300050: ID243
+    3300052: ID281
+    3300054: ID289
+    3300056: ID297
+    3300058: ID305
+    3300060: ID313
+    3300062: ID321
+    3300064: ID329
+    3300066: ID37
+    3300068: ID45
+    3300070: ID53
+    3300072: ID61
+    3300074: ID97
+    4300000: group_0
+    4300002: ID37
+    4300004: ID45
+    4300006: ID53
+    4300008: ID61
+    4300010: "H\xE9lice"
+    4300012: group_1
+    4300014: group_3
+    4300016: ID153
+    4300018: ID161
+    4300020: ID169
+    4300022: ID177
+    4300024: group_4
+    4300026: ID97
+    4300028: ID105
+    4300030: ID113
+    4300032: ID121
+    4300034: ID129
+    4300036: ID137
+    4300038: group_5
+    4300040: group_6
+    4300042: ID203
+    4300044: ID211
+    4300046: ID219
+    4300048: ID227
+    4300050: ID235
+    4300052: ID243
+    4300054: Componente_1
+    4300056: ID281
+    4300058: ID289
+    4300060: ID297
+    4300062: ID305
+    4300064: ID313
+    4300066: ID321
+    4300068: ID329
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
